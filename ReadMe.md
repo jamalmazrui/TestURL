@@ -1,8 +1,9 @@
 ﻿# TestURL
 
-by Jamal Mazrui, Consultant Access Success LLC
+by Jamal Mazrui \
+Consultant, Access Success LLC
 
-TestURL is an open-source tool for running accessibility tests on web pages specified by URL. It generates test results in HTML format.
+TestURL is a free, open source tool for running accessibility tests on web pages specified by URL. It generates test results in HTML format.
 
 ## Installation
 
@@ -35,3 +36,9 @@ The program will run the Microsoft Edge browser with the API of [Deque Axe](http
 If a URL was passed as a parameter, the HTML report will be opened when the program ends. If a file was passed instead, a report is not opened automatically.
 
 Note that automated testing only catches about a third of accessibility errors, so manual testing is also needed to evaluate WCAG conformance.
+
+The TestURL project is available on the web at \
+<http://GitHub.com/JamalMazrui/TestURL>
+
+The project may be downloaded in a single zip archive from \
+<http://GitHub.com/JamalMazrui/TestURL/archive/main.zip>
